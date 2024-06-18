@@ -23,8 +23,9 @@ pip install Pillow
 
 ## Usage
 
-1. Place your images in an `input` directory.
-2. Run the script using Python:
+1. Create a directory called `input` and `output`.
+2. Place your images in an `input` directory.
+3. Run the script using Python:
 
 ```bash
 python edge_blur.py
