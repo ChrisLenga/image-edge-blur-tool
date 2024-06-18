@@ -3,6 +3,7 @@
 This Python script applies a Gaussian blur to the edges of images, leaving the central part unblurred. It's particularly useful for preparing images for printing on items like mugs, where edge blending can help create a more seamless appearance.
 
 An example below and the size and radius can be configured in the script.
+
 ![image](https://github.com/ChrisLenga/image-edge-blur-tool/assets/15137702/e9d276ac-4eaa-42d6-923c-01637fb54bd9)
 
 ## Features
