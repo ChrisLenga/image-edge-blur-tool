@@ -1,6 +1,7 @@
 import os
 from PIL import Image, ImageFilter
 
+# Edit the values in Line #5 (below) to your desired look
 def apply_edge_blur(image_path, output_path, blur_radius=2, border_size=10):
     # Open an image file
     with Image.open(image_path) as img:
